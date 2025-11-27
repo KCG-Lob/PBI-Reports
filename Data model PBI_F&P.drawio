@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="Page-1" id="116sH61LWah3TWXp4nbd">
-    <mxGraphModel dx="1426" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="1979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,12 +41,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6-y6gd7lIisJgPAl_si8-13" collapsed="1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=1;sketch=1;curveFitting=1;jiggle=2;" value="DimPeriode" vertex="1">
-          <mxGeometry height="30" width="100" x="360" y="460" as="geometry">
+          <mxGeometry height="30" width="100" x="450" y="500" as="geometry">
             <mxRectangle height="80" width="140" x="360" y="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Nrg3E53aE8eEroYnN1Fy-4" edge="1" parent="1" source="6-y6gd7lIisJgPAl_si8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="6-y6gd7lIisJgPAl_si8-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6-y6gd7lIisJgPAl_si8-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="DimStage" vertex="1">
-          <mxGeometry height="80" width="140" x="210" y="610" as="geometry" />
+          <mxGeometry height="80" width="140" x="250" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Nrg3E53aE8eEroYnN1Fy-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="DimSession" vertex="1">
+          <mxGeometry height="80" width="140" x="430" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Nrg3E53aE8eEroYnN1Fy-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=1;sketch=1;curveFitting=1;jiggle=2;" value="FaitSessionApprenan" vertex="1">
+          <mxGeometry height="80" width="140" x="400" y="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
